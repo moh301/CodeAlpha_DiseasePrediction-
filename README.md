@@ -57,17 +57,4 @@ This project applies classification algorithms to the [Heart Failure Prediction 
 - `Heart_Disease_Prediction.ipynb` — full notebook (EDA, preprocessing, modeling, evaluation)
 - `heart.csv` — dataset used
 
-## How to Run
 
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-jupyter notebook Heart_Disease_Prediction.ipynb
-```
-
-## Disclaimer
-
-This model is for educational purposes and is not intended for real-world clinical use without further validation and oversight from medical professionals.
-
----
-
-*Part of the CodeAlpha Machine Learning Internship — Task 4: Disease Prediction from Medical Data*
